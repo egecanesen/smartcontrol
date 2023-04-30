@@ -1,5 +1,4 @@
-# smartcontrol
-Tank game with smart controls
+# Tank game with smart controls
 
 To run the game, download this repository and install the required packages.
 
