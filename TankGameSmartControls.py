@@ -246,7 +246,7 @@ def game_ctrls():
 
         game_layout_display.fill(black)
         msg_screen("Controls", white, -100, size="large")
-        msg_screen("Fire: Say 'Happy' or 'Go'", wheat, -30)
+        msg_screen("Fire: Say 'Happy'", wheat, -30)
         msg_screen("Move Turret: Say 'Left' or 'Right'", wheat, 10)
         msg_screen("Move Tank: Say 'Backward' or 'Forward'", wheat, 50)
         msg_screen("Change Power Level: Say 'Up' or 'Down'", wheat, 140)
