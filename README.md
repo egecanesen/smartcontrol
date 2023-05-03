@@ -26,7 +26,7 @@ pip install -r requirements.txt
 To play the game, simply run the python code in this environment. 
 
 
-Controls
+### Controls
 
 - Fire: Say 'Happy'
 - Move Turret: Say 'Left' or 'Right'
