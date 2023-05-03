@@ -28,10 +28,10 @@ To play the game, simply run the python code in this environment.
 
 Controls
 
-Fire: Say 'Happy'
-Move Turret: Say 'Left' or 'Right'
-Move Tank: Say 'Backward' or 'Forward'
-Change Power Level: Say 'Up' or 'Down'
+- Fire: Say 'Happy'
+- Move Turret: Say 'Left' or 'Right'
+- Move Tank: Say 'Backward' or 'Forward'
+- Change Power Level: Say 'Up' or 'Down'
 
-Pause: P
-Also, if an input is recognized wrong, you can press N to save the input id. 
+- Pause: P
+- Also, if an input is recognized wrong, you can press N to save the input id. 
