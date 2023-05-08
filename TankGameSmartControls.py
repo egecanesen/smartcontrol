@@ -631,6 +631,9 @@ def health_bars(p_health, e_health):
 
 
 def gameLoop():
+    
+    word = None
+    
     gExit = False
     gOver = False
     FPS = 15
@@ -768,6 +771,14 @@ def gameLoop():
                 if word in ["up", "down"]:
                     p_change = 0
 
+            
+        
+        if word != None:
+            msg_screen(f"{word}", red, -50, size="medium")
+            pygame.display.update()
+            time.sleep(0.5)
+            
+            
         mTankX += tnkMove
 
         curTurPost += changeTurs
